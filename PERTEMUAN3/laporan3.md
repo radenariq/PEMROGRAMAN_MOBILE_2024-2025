@@ -2,7 +2,7 @@
 
 ## 2241720234
 
-## TI-3H
+## TI-3D
 
 ### Praktikum 1 Menerapkan Control Flows ("If/Else)
 
